@@ -3,14 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Anbarasu%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20Full%20Stack&descAlignY=58&descSize=20&descColor=a78bfa" width="100%"/>
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+REST+APIs;🤖+AI+%2F+GenAI+App+Developer;⚡+Node.js+%7C+FastAPI+%7C+Next.js+Dev;🔥+8+Months+Full+Stack+Experience;💡+RAG+Pipelines+%7C+Semantic+Search+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Scalable+REST+APIs;AI+%2F+GenAI+App+Developer;Node.js+%7C+FastAPI+%7C+Next.js+Dev;8+Months+Full+Stack+Experience;RAG+Pipelines+%7C+Semantic+Search+Builder" />
 </div>
 
 <br/>
 
-<!-- Social Links -->
+<!-- Social badges -->
 <div align="center">
   <a href="mailto:anbuarasu2017@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -24,20 +24,23 @@
   <a href="https://anbarasu-s-developer-portfo-464.created.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anbarasu2410.Anbarasu2410&style=for-the-badge&color=blueviolet" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anbarasu2410.Anbarasu2410&color=blueviolet"/>
 </div>
 
 ---
 
-<!-- About Me -->
-## 🧑‍💻 About Me
+## About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding gif"/>
+</div>
+
+<br/>
 
 ```typescript
 const anbarasu = {
   title    : "Software Developer (Backend / Full Stack)",
-  company  : "Spiritminetech, Madurai 🏢",
+  company  : "Spiritminetech, Madurai",
   exp      : "8 months full-stack experience",
 
   backend  : ["Node.js", "FastAPI", "Express.js", "REST APIs", "JWT"],
@@ -46,30 +49,26 @@ const anbarasu = {
   database : ["MongoDB", "PostgreSQL"],
 
   currentlyExploring : ["GenAI Workflows", "Agentic AI", "Cloud Basics"],
-  funFact  : "I turn coffee ☕ into scalable APIs 🚀",
+  funFact  : "I turn coffee into scalable APIs",
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-<!-- Stats -->
-## � GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="40%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anbarasu2410&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Anbarasu2410&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="60%"/>
 </div>
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -86,7 +85,6 @@ const anbarasu = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -113,44 +111,41 @@ const anbarasu = {
 
 ---
 
-<!-- Projects -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| 🤖 **[AI Codebase Assistant](https://github.com/Anbarasu2410/CodeAssist-AI)** | AI-powered assistant for GitHub repos using RAG pipelines & semantic search | FastAPI · Next.js 14 · MongoDB · OpenAI | — |
-| 🔗 **[ReferBridge](https://github.com/Anbarasu2410/ReferBridge-Mobile-app)** | Referral-first job platform with recruiter workflow & real-time chat | React Native · Node.js · PostgreSQL · Socket.IO | — |
-| 🎙️ **[AI Meeting Assistant](https://live-suggestion-ol3og9l5m-anbuarasu2017-gmailcoms-projects.vercel.app/)** | Real-time transcription & AI-assisted chat interaction system | Next.js · TypeScript · Tailwind CSS | ✅ Live |
+|---------|-------------|-------|------|
+| **[AI Codebase Assistant](https://github.com/Anbarasu2410/CodeAssist-AI)** | AI-powered assistant for GitHub repos using RAG pipelines & semantic search | FastAPI · Next.js 14 · MongoDB · OpenAI | — |
+| **[ReferBridge](https://github.com/Anbarasu2410/ReferBridge-Mobile-app)** | Referral-first job platform with recruiter workflow & real-time chat | React Native · Node.js · PostgreSQL · Socket.IO | — |
+| **[AI Meeting Assistant](https://live-suggestion-ol3og9l5m-anbuarasu2017-gmailcoms-projects.vercel.app/)** | Real-time transcription & AI-assisted chat interaction system | Next.js · TypeScript · Tailwind CSS | Live |
 
 </div>
 
 ---
 
-<!-- Experience Timeline -->
-## � Experience
+## Experience
 
 ```
-🏢 Spiritminetech, Madurai          Oct 2025 – Present
-   Software Developer
-   ├── Scalable REST APIs with Node.js
-   ├── JWT-based secure authentication systems
-   ├── MongoDB query optimization
-   └── Frontend-backend API integration
+Spiritminetech, Madurai                          Oct 2025 - Present
+Software Developer
+  |- Scalable REST APIs with Node.js
+  |- JWT-based secure authentication systems
+  |- MongoDB query optimization
+  +- Frontend-backend API integration
 
-🏢 Cavin Infotech                   Jul 2024 – Sep 2024
-   Full Stack Developer Intern
-   ├── React.js frontend applications
-   ├── Spring Boot backend APIs
-   ├── JWT authentication flows
-   └── API integration & full stack tasks
+Cavin Infotech                                   Jul 2024 - Sep 2024
+Full Stack Developer Intern
+  |- React.js frontend applications
+  |- Spring Boot backend APIs
+  |- JWT authentication flows
+  +- API integration & full stack tasks
 ```
 
 ---
 
-<!-- Activity Graph -->
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
@@ -158,8 +153,7 @@ const anbarasu = {
 
 ---
 
-<!-- Trophies -->
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
@@ -167,9 +161,8 @@ const anbarasu = {
 
 ---
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 </div>
 
 <div align="center">
