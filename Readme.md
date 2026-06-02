@@ -42,12 +42,11 @@ const anbarasu = {
 
   backend  : ["Node.js", "FastAPI", "Express.js", "REST APIs", "JWT"],
   frontend : ["Next.js 14", "React.js", "React Native", "Tailwind CSS"],
-  ai_genai : ["RAG Pipelines", "Embeddings", "Semantic Search",
-              "Groq API", "OpenAI API"],
+  ai_genai : ["RAG Pipelines", "Embeddings", "Semantic Search", "Groq API", "OpenAI API"],
   database : ["MongoDB", "PostgreSQL"],
 
-  currentlyLearning : ["System Design", "DevOps Basics", "GCP"],
-  funFact : "I turn coffee ☕ into scalable APIs 🚀"
+  currentlyExploring : ["GenAI Workflows", "Agentic AI", "Cloud Basics"],
+  funFact  : "I turn coffee ☕ into scalable APIs 🚀",
 };
 ```
 
