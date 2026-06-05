@@ -133,7 +133,7 @@ const anbarasu = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anbarasu2410&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=8b8a99&dates=4b5563" width="58%"/>
+  <img src="https://streak-stats.demolab.com?user=Anbarasu2410&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=8b8a99&dates=4b5563&mode=weekly" width="58%"/>
 </div>
 
 <div align="center">
@@ -167,5 +167,3 @@ const anbarasu = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1e1b4b,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
-
-
