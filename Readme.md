@@ -18,10 +18,10 @@
 
 <div align="center">
 
-![Building Scalable REST APIs](https://img.shields.io/badge/🚀_Building-Scalable_REST_APIs-a78bfa?style=flat-square)
-![AI GenAI RAG](https://img.shields.io/badge/🤖_AI_%2F_GenAI-RAG_Pipeline_Engineer-a78bfa?style=flat-square)
-![Stack](https://img.shields.io/badge/⚡_Stack-Node.js_%7C_FastAPI_%7C_Next.js_14-a78bfa?style=flat-square)
-![Open to Work](https://img.shields.io/badge/🌐_Open_to-Opportunities-a78bfa?style=flat-square)
+![](https://img.shields.io/badge/🚀_Building-Scalable_REST_APIs-a78bfa?style=flat-square)
+![](https://img.shields.io/badge/🤖_AI_/_GenAI-RAG_Pipeline_Engineer-a78bfa?style=flat-square)
+![](https://img.shields.io/badge/⚡_Stack-Node.js_|_FastAPI_|_Next.js_14-a78bfa?style=flat-square)
+![](https://img.shields.io/badge/🌐_Open_to-Opportunities-a78bfa?style=flat-square)
 
 </div>
 
@@ -132,8 +132,9 @@ const anbarasu = {
 ## `$ cat ./github-stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br/>
@@ -154,7 +155,22 @@ const anbarasu = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4)
+![Commits](https://img.shields.io/badge/Commits-🏆_MultiYear_Member-gold?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Repos-🥇_Active_Builder-gold?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-⭐_Rising_Star-gold?style=for-the-badge&logo=github)
+![PRs](https://img.shields.io/badge/PRs-🔥_Contributor-gold?style=for-the-badge&logo=github)
+
+</div>
+
+<div align="center">
+
+| 🏆 Achievement | 📊 Detail |
+|---|---|
+| 💻 Languages | Python · JavaScript · TypeScript |
+| 🚀 Frameworks | Node.js · FastAPI · Next.js 14 · React Native |
+| 🤖 AI / GenAI | RAG Pipelines · Embeddings · Semantic Search |
+| 🗄️ Databases | MongoDB · PostgreSQL |
+| 📅 Experience | Oct 2025 – Present @ Spiritminetech |
 
 </div>
 
