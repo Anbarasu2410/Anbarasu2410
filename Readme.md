@@ -1,16 +1,11 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1e1b4b,100:0a0a0f&height=200&section=header&text=Anbarasu%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20·%20Backend%20%26%20Full%20Stack%20·%20GenAI&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
+
+# Anbarasu S
+
+### Software Developer · Backend & Full Stack · GenAI
+
 </div>
 
-<!-- TYPING SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;AI+%2F+GenAI+%7C+RAG+Pipeline+Engineer;Node.js+%7C+FastAPI+%7C+Next.js+14;Semantic+Search+%26+Embeddings+Builder;Open+to+Opportunities+%F0%9F%8C%90" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- SOCIAL LINKS -->
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anbuarasu2017@gmail.com)
@@ -18,6 +13,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarasu24/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://anbarasu-s-developer-portfo-464.created.app/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anbarasu2410.Anbarasu2410&color=7c3aed)
+
+</div>
+
+<div align="center">
+
+![Building Scalable REST APIs](https://img.shields.io/badge/🚀_Building-Scalable_REST_APIs-a78bfa?style=flat-square)
+![AI GenAI RAG](https://img.shields.io/badge/🤖_AI_%2F_GenAI-RAG_Pipeline_Engineer-a78bfa?style=flat-square)
+![Stack](https://img.shields.io/badge/⚡_Stack-Node.js_%7C_FastAPI_%7C_Next.js_14-a78bfa?style=flat-square)
+![Open to Work](https://img.shields.io/badge/🌐_Open_to-Opportunities-a78bfa?style=flat-square)
 
 </div>
 
@@ -128,20 +132,20 @@ const anbarasu = {
 ## `$ cat ./github-stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anbarasu2410&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Anbarasu2410&theme=tokyonight&hide_border=true&mode=weekly" width="55%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -149,13 +153,18 @@ const anbarasu = {
 ## `$ cat ./trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="GitHub Trophies"/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Dev Quote"/>
+
+> *"It was a turning point in my programming career when I realized that I didn't have to win every argument."*
+> — Ward Cunningham
+
 </div>
 
 <br/>
@@ -167,9 +176,4 @@ const anbarasu = {
 [![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://anbarasu-s-developer-portfo-464.created.app/)
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarasu24/)
 
-</div>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1e1b4b,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
