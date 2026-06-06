@@ -3,12 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1e1b4b,100:0a0a0f&height=200&section=header&text=Anbarasu%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20·%20Backend%20%26%20Full%20Stack%20·%20GenAI&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
 </div>
 
+<!-- TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;AI+%2F+GenAI+%7C+RAG+Pipeline+Engineer;Node.js+%7C+FastAPI+%7C+Next.js+14;Semantic+Search+%26+Embeddings+Builder;Open+to+Opportunities+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+REST+APIs+%F0%9F%9A%80;AI+%2F+GenAI+%7C+RAG+Pipeline+Engineer;Node.js+%7C+FastAPI+%7C+Next.js+14;Semantic+Search+%26+Embeddings+Builder;Open+to+Opportunities+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
 <br/>
 
+<!-- SOCIAL LINKS -->
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anbuarasu2017@gmail.com)
@@ -126,18 +128,20 @@ const anbarasu = {
 ## `$ cat ./github-stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0f&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=7c3aed&cache_seconds=86400" width="48%" alt="Anbarasu's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=e2e8f0&cache_seconds=86400&langs_count=8" width="38%" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anbarasu2410&theme=tokyonight&hide_border=true&background=0a0a0f&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=8b8a99&dates=4b5563&mode=weekly&stroke=0a0a0f" width="58%" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anbarasu2410&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_title=false" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -145,7 +149,7 @@ const anbarasu = {
 ## `$ cat ./trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=1" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -153,6 +157,8 @@ const anbarasu = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Dev Quote"/>
 </div>
+
+<br/>
 
 <div align="center">
 
