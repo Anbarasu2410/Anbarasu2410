@@ -132,9 +132,11 @@ const anbarasu = {
 ## `$ cat ./github-stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+| 📊 GitHub Stats | 🗂️ Top Languages |
+|:---:|:---:|
+| ![stats](https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=300) |
+
 </div>
 
 <br/>
@@ -152,15 +154,6 @@ const anbarasu = {
 ---
 
 ## `$ cat ./trophies`
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/Commits-🏆_MultiYear_Member-gold?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Repos-🥇_Active_Builder-gold?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-⭐_Rising_Star-gold?style=for-the-badge&logo=github)
-![PRs](https://img.shields.io/badge/PRs-🔥_Contributor-gold?style=for-the-badge&logo=github)
-
-</div>
 
 <div align="center">
 
