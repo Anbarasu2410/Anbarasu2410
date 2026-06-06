@@ -132,10 +132,17 @@ const anbarasu = {
 ## `$ cat ./github-stats`
 
 <div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Anbarasu2410&cc=0d1117&tc=a78bfa&ic=a78bfa&bc=0d1117" width="100%" alt="GitHub Stats" />
+</div>
 
-| 📊 GitHub Stats | 🗂️ Top Languages |
-|:---:|:---:|
-| ![stats](https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=300) |
+<br/>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Most_Used-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Active-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Active-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Active-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
