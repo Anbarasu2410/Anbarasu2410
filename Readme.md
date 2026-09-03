@@ -167,26 +167,3 @@ timeline
     2026 : The Future
          : Building Agentic AI Systems
          : Architecting Scalable Solutions
-
-Solutions
-📊 Engineering Metrics
-<div align="center"><table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&title_color=818CF8&icon_color=C4B5FD&text_color=C4B5FD&bg_color=0A0A2E&custom_title=Code%20Contribution%20Dashboard" width="100%" /></td> <td><img src="https://streak-stats.demolab.com?user=Anbarasu2410&theme=radical&hide_border=true&mode=weekly&background=0A0A2E&currStreakLabel=818CF8&sideLabels=C4B5FD&fire=818CF8" width="100%" /></td> </tr> </table><img src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=redical&hide_border=true&area=true&bg_color=0A0A2E&color=C4B5FD&line=818CF8&point=7C3AED&custom_title=Development%20Activity%20Heatmap" width="100%" /></div>
-🏅 Achievement Badges
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=818CF8" width="100%" /></div>
-🌐 Connect & Collaborate
-<div align="center">
-https://img.shields.io/badge/Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A2E
-https://img.shields.io/badge/Digital_Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0A0A2E
-https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A2E
-https://img.shields.io/badge/Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A2E
-
-</div>
-💭 Engineering Philosophy
-<div align="center">
-"The best code is not the one with the fewest bugs, but the one that solves the most problems elegantly."
-
-</div><div align="center">
-⚡ Available for Backend · Full Stack · GenAI Roles
-
-<a href="mailto:anbuarasu2017@gmail.com"> <img src="https://img.shields.io/badge/📬_Schedule_a_Coffee_Chat-7C3AED?style=for-the-badge&labelColor=0A0A2E" /> </a></div>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A2E,100:1A1A4E&height=150&section=footer" width="100%"/> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=Anbarasu2410&label=Architects%20Visiting&color=818CF8&style=flat" alt="Profile Views" /> </p> ```
