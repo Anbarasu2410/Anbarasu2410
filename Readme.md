@@ -163,9 +163,10 @@ Developer productivity extension for tracking working checkpoints and file chang
 `FastAPI` · `Next.js 14` · `TypeScript` · `MongoDB`
 
 AI-powered assistant for exploring and understanding GitHub repositories.
-- 🔍 Repository analysis
-- 🧠 Semantic code search
-- ⚡ FastAPI backend + Next.js frontend
+
+<p>🔍 Repository analysis</p>
+<p>🧠 Semantic code search</p>
+<p>⚡ FastAPI backend + Next.js frontend</p>
 
 ---
 
@@ -177,9 +178,10 @@ AI-powered assistant for exploring and understanding GitHub repositories.
 `Next.js` · `TypeScript` · `Tailwind CSS`
 
 Real-time meeting transcription and interactive meeting assistant.
-- 🎙️ Real-time transcription
-- 💬 Meeting-based chat interface
-- 📱 Responsive Next.js frontend
+
+<p>🎙️ Real-time transcription</p>
+<p>💬 Meeting-based chat interface</p>
+<p>📱 Responsive Next.js frontend</p>
 
 </div>
 
