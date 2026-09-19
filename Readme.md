@@ -10,34 +10,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+Engineer+%7C+Node.js+%7C+FastAPI;Open+Source+Contributor+%F0%9F%8C%8D;GenAI+Enthusiast+%F0%9F%A4%96;Building+Developer+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="mailto:anbuarasu2017@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/anbarasu24/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://anbarasu-fullstack.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Anbarasu2410">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-</p>
+<br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Anbarasu2410&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Anbarasu2410?label=Followers&style=for-the-badge&color=6a11cb&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/Anbarasu2410?label=Stars&style=for-the-badge&color=2575fc&labelColor=000000" />
-</p>
+<a href="mailto:anbuarasu2017@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/anbarasu24/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://anbarasu-fullstack.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Anbarasu2410">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ```yaml
 name:        Anbarasu S
@@ -53,8 +45,6 @@ published:   VS Code Extension on Marketplace ✅
 - 💬 Ask me about **Node.js, FastAPI, Next.js, MongoDB, PostgreSQL**
 - 🎯 Open to **Backend / Full Stack / GenAI opportunities**
 - ⚡ Fun fact: I published a **VS Code extension** on the Marketplace!
-
-<br clear="right"/>
 
 ---
 
@@ -101,33 +91,6 @@ published:   VS Code Extension on Marketplace ✅
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anbarasu2410&theme=radical&hide_border=true&background=0D1117&stroke=00C6FF&ring=6A11CB&fire=FF6C37&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=6A11CB&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=react-dark&bg_color=0D1117&color=00C6FF&line=6A11CB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
