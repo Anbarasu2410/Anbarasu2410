@@ -1,180 +1,211 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Anbarasu%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20·%20Backend%20%26%20Full%20Stack%20·%20GenAI&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+# Anbarasu S
 
-<div align="center">
+**Full Stack Developer | Backend Developer | Open Source Contributor**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Full+Stack+Developer;RAG+Pipeline+Engineer;Node.js+%7C+FastAPI+%7C+Next.js+14;Open+to+Backend+%2F+Full+Stack+%2F+GenAI+Roles)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anbuarasu2017@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarasu24/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://anbarasu-s-developer-portfo-464.created.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anbarasu2410)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anbarasu2410.Anbarasu2410&color=7c3aed)
-
-</div>
+Madurai, Tamil Nadu, India  
+[Email](mailto:anbuarasu2017@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/anbarasu24/) ·
+[Portfolio](https://anbarasu-fullstack.vercel.app/) ·
+[GitHub](https://github.com/Anbarasu2410)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" width="36%" />
+Full Stack Developer focused on building reliable backend systems, REST APIs,
+responsive web applications, authentication workflows, developer tools, and
+AI-powered applications.
 
-```typescript
-const anbarasu = {
-  role      : "Software Developer — Backend & Full Stack",
-  location  : "Madurai, Tamil Nadu, India 🇮🇳",
-  company   : "Spiritminetech",
-  backend   : ["Node.js", "FastAPI", "Express.js", "REST APIs"],
-  frontend  : ["Next.js 14", "React.js", "React Native", "TypeScript"],
-  ai_genai  : ["RAG Pipelines", "Embeddings", "Groq", "OpenAI"],
-  database  : ["MongoDB", "PostgreSQL"],
-  exploring : ["Agentic AI", "GenAI Workflows", "Cloud"],
-  funFact   : "I turn ☕ into scalable APIs",
-};
-```
+Currently working with **Node.js, Express.js, FastAPI, Next.js, React,
+TypeScript, MongoDB, PostgreSQL**, and modern API-driven architectures.
 
-- 🔭 Currently building **scalable REST APIs & RAG pipelines** at Spiritminetech
-- 🤖 Deep into **Agentic AI** and **GenAI workflows**
-- 💬 Ask me about **Node.js, FastAPI, Next.js, RAG**
-- 📫 Reach me at **anbuarasu2017@gmail.com**
-- 🌐 Open to **Backend / Full Stack / GenAI** opportunities
+I also contribute to open-source projects and build developer-focused tools.
 
-<br clear="right"/>
+- Software Developer at **Spiritminetech**
+- Building backend APIs and full-stack applications
+- Interested in **Backend Engineering, Full Stack Development, GenAI and Open Source**
+- Published a VS Code extension on the Visual Studio Marketplace
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+### Languages
 
-**Languages**
+`JavaScript` `TypeScript` `Python` `SQL`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Backend
 
-**Backend**
+`Node.js` `Express.js` `FastAPI` `REST APIs` `JWT`
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-6D28D9?style=flat-square&logoColor=white)
+### Frontend & Mobile
 
-**Frontend & Mobile**
+`Next.js 14` `React.js` `React Native` `Tailwind CSS`
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+### Databases
 
-**AI / GenAI**
+`MongoDB` `PostgreSQL` `Prisma ORM`
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-EC4899?style=flat-square&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-0F766E?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+### Real-Time
 
-**Databases & DevTools**
+`Socket.IO` `WebSockets`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### AI / GenAI
 
-</div>
+`OpenAI API` `Groq API` `RAG` `Semantic Search`
+
+### Developer Tools
+
+`Git` `GitHub` `Postman` `VS Code`
 
 ---
 
-## 🚀 Featured Projects
+## Open Source Contributions
 
-<div align="center">
+I contribute fixes and features to external open-source projects through
+issues, pull requests, code review, testing, and documentation.
 
-<a href="https://github.com/Anbarasu2410/CodeAssist-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anbarasu2410&repo=CodeAssist-AI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Anbarasu2410/ReferBridge-Mobile-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anbarasu2410&repo=ReferBridge-Mobile-app&theme=tokyonight&hide_border=true" />
-</a>
+### reviewer
 
-</div>
+**Repository:** [dheerajjha/reviewer](https://github.com/dheerajjha/reviewer)
 
-<br/>
+**Merged contribution:**  
+[feat: add keyboard navigation for reviews](https://github.com/dheerajjha/reviewer/pulls?q=is%3Apr+author%3AAnbarasu2410+is%3Amerged)
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 [**AI Codebase Assistant**](https://github.com/Anbarasu2410/CodeAssist-AI) | AI-powered GitHub repo assistant using RAG pipelines and semantic search | `FastAPI` `Next.js 14` `MongoDB` `OpenAI` |
-| 🔗 [**ReferBridge**](https://github.com/Anbarasu2410/ReferBridge-Mobile-app) | Referral-first job platform with recruiter workflows and real-time chat | `React Native` `Node.js` `PostgreSQL` `Socket.IO` |
-| 🎙️ [**AI Meeting Assistant**](https://live-suggestion-ol3og9l5m-anbuarasu2017-gmailcoms-projects.vercel.app/) | Real-time transcription and AI-assisted chat interaction system | `Next.js` `TypeScript` `Tailwind CSS` |
+Implemented keyboard-driven review navigation, including:
 
----
+- `j / k` navigation between files
+- `n / p` navigation between comments
+- keyboard shortcut handling
+- protection against shortcuts firing while typing
+- keyboard-focused UI improvements
+- automated tests for shortcut behavior
 
-## 💼 Experience
+**Status:** ✅ Merged
 
-```
-● Spiritminetech, Madurai                                Oct 2025 – Present
-  Software Developer
-  ├─ Scalable REST APIs with Node.js & Express.js
-  ├─ JWT-based secure authentication systems
-  ├─ MongoDB schema design and query optimization
-  └─ Frontend-backend API integration
+### All Merged Open Source Pull Requests
 
-● Cavin Infotech                                         Jul 2024 – Sep 2024
-  Full Stack Developer Intern
-  ├─ React.js frontend component development
-  ├─ Spring Boot backend API integration
-  └─ JWT authentication & full stack feature delivery
-```
+[View my merged pull requests →](https://github.com/pulls?q=is%3Apr+author%3AAnbarasu2410+is%3Amerged)
+
+[View all my pull requests →](https://github.com/pulls?q=is%3Apr+author%3AAnbarasu2410)
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
+### BreakPoint — VS Code Extension
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Anbarasu2410&theme=tokyonight&hide_border=true&mode=weekly" width="48%" />
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Anbarasu24.breakpoint)
 
-<br/><br/>
+**TypeScript · VS Code APIs · File Hashing**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+Developer productivity extension for tracking working checkpoints and file
+changes directly inside VS Code.
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-
-</div>
+- Published on the VS Code Marketplace
+- Detects modified files using file hashing
+- Side-by-side Diff View
+- Activity Bar integration
+- Status Bar integration
+- Runs locally inside VS Code
 
 ---
 
-<div align="center">
+### AI Codebase Assistant
 
-> *"It was a turning point in my programming career when I realized that I didn't have to win every argument."*
-> — Ward Cunningham
+[GitHub Repository](https://github.com/Anbarasu2410/CodeAssist-AI)
 
-<br/>
+**FastAPI · Next.js 14 · TypeScript · MongoDB**
 
-**`🚀 Currently open to Backend / Full Stack / GenAI roles`**
+AI-powered assistant for exploring and understanding GitHub repositories.
 
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://anbarasu-s-developer-portfo-464.created.app/)
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbarasu24/)
-[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anbuarasu2017@gmail.com)
+- Repository analysis
+- Semantic code search
+- FastAPI backend
+- Next.js frontend
+- AI-assisted codebase exploration
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+---
 
-</div>
+### AI Meeting Assistant
+
+[Live Project](https://live-suggestion-ol3og9l5m-anbuarasu2017-gmailcoms-projects.vercel.app/)
+
+**Next.js · TypeScript · Tailwind CSS**
+
+Real-time meeting transcription and interactive meeting assistant.
+
+- Real-time transcription workflow
+- Meeting-based chat interface
+- API integration
+- Responsive Next.js frontend
+
+---
+
+## Experience
+
+### Software Developer — Spiritminetech
+
+**Oct 2025 — Present | Madurai / Remote**
+
+- Developed and maintained REST APIs for web applications
+- Implemented JWT-based authentication
+- Worked with MongoDB schema design and query optimization
+- Integrated frontend applications with backend APIs
+- Supported production application workflows
+
+### Full Stack Developer Intern — Cavin Infotech
+
+**Jul 2024 — Sep 2024**
+
+- Developed reusable React.js frontend components
+- Built and integrated Spring Boot APIs
+- Implemented JWT authentication
+- Worked on frontend-backend feature integration
+
+---
+
+## Education
+
+**B.E. Computer Science and Engineering**  
+NPR College of Engineering and Technology
+
+**CGPA:** 7.7 / 10
+
+---
+
+## Certifications
+
+- **Full Stack Generative and Agentic AI with Python** — Udemy
+- **SQL Fundamentals** — HackerRank
+
+---
+
+## GitHub Activity
+
+You can explore my complete development activity directly through GitHub:
+
+[Repositories](https://github.com/Anbarasu2410?tab=repositories) ·
+[Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AAnbarasu2410) ·
+[Merged Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AAnbarasu2410+is%3Amerged)
+
+---
+
+## Currently Interested In
+
+- Backend Engineering
+- Full Stack Development
+- Node.js / FastAPI
+- Developer Tools
+- Open Source
+- Generative AI applications
+
+---
+
+## Contact
+
+I'm open to **Backend, Full Stack and GenAI opportunities**.
+
+[LinkedIn](https://www.linkedin.com/in/anbarasu24/) ·
+[Email](mailto:anbuarasu2017@gmail.com) ·
+[Portfolio](https://anbarasu-fullstack.vercel.app/)
