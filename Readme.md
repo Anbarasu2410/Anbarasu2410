@@ -119,17 +119,6 @@ published:   VS Code Extension on Marketplace ✅
 
 **Status:** ✅ **Merged**
 
-<div align="center">
-
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAnbarasu2410+is%3Amerged">
-  <img src="https://img.shields.io/badge/🔀%20View%20Merged%20PRs-00C6FF?style=for-the-badge&labelColor=0D1117" />
-</a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAnbarasu2410">
-  <img src="https://img.shields.io/badge/📂%20View%20All%20PRs-6A11CB?style=for-the-badge&labelColor=0D1117" />
-</a>
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -255,24 +244,6 @@ Real-time meeting transcription and interactive meeting assistant.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anbarasu2410&theme=radical&hide_border=true&background=0D1117&stroke=00C6FF&ring=6A11CB&fire=FF6C37&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00C6FF&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Followers&query=%24.followers&style=for-the-badge&color=6A11CB&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Following&query=%24.following&style=for-the-badge&color=2575FC&labelColor=0D1117&logo=github" />
-
-<br/><br/>
-
-<a href="https://github.com/Anbarasu2410?tab=repositories">
-  <img src="https://img.shields.io/badge/📦%20Repositories-00C6FF?style=for-the-badge&labelColor=0D1117" />
-</a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAnbarasu2410">
-  <img src="https://img.shields.io/badge/🔀%20Pull%20Requests-6A11CB?style=for-the-badge&labelColor=0D1117" />
-</a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAnbarasu2410+is%3Amerged">
-  <img src="https://img.shields.io/badge/✅%20Merged%20PRs-00FF88?style=for-the-badge&labelColor=0D1117" />
-</a>
 
 </div>
 
