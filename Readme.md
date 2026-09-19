@@ -95,22 +95,6 @@ published:   VS Code Extension on Marketplace ✅
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anbarasu2410&theme=radical&hide_border=true&background=0D1117&stroke=00C6FF&ring=6A11CB&fire=FF6C37&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00C6FF&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Followers&query=%24.followers&style=for-the-badge&color=6A11CB&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Following&query=%24.following&style=for-the-badge&color=2575FC&labelColor=0D1117&logo=github" />
-
-</div>
-
----
-
 ## 🌐 Open Source Contributions
 
 > *I contribute fixes and features to external open-source projects through issues, pull requests, code review, testing, and documentation.*
@@ -269,6 +253,16 @@ Real-time meeting transcription and interactive meeting assistant.
 ## 🔥 GitHub Activity
 
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anbarasu2410&theme=radical&hide_border=true&background=0D1117&stroke=00C6FF&ring=6A11CB&fire=FF6C37&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00C6FF&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Followers&query=%24.followers&style=for-the-badge&color=6A11CB&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Following&query=%24.following&style=for-the-badge&color=2575FC&labelColor=0D1117&logo=github" />
+
+<br/><br/>
 
 <a href="https://github.com/Anbarasu2410?tab=repositories">
   <img src="https://img.shields.io/badge/📦%20Repositories-00C6FF?style=for-the-badge&labelColor=0D1117" />
