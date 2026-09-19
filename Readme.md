@@ -1,18 +1,14 @@
-<!-- ========================= -->
-<!--        HEADER AREA        -->
-<!-- ========================= -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Anbarasu%20S&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:7c3aed&height=210&section=header&text=Anbarasu%20S&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=57&descSize=18&animation=fadeIn"
     width="100%"
-    alt="Anbarasu S Header"
+    alt="Anbarasu S"
   />
 </p>
 
 <p align="center">
   <a href="mailto:anbuarasu2017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <a href="https://www.linkedin.com/in/anbarasu24/">
@@ -20,7 +16,7 @@
   </a>
 
   <a href="https://anbarasu-fullstack.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 
   <a href="https://github.com/Anbarasu2410">
@@ -29,7 +25,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer · Backend Engineering · Open Source · GenAI</b>
+  <b>Full Stack Developer • Backend Engineering • Open Source • GenAI</b>
 </p>
 
 ---
@@ -39,16 +35,47 @@
 ```ts
 const anbarasu = {
   role: "Full Stack Developer",
-  focus: ["Backend", "Full Stack", "Open Source", "GenAI"],
 
-  backend: ["Node.js", "Express.js", "FastAPI", "REST APIs"],
-  frontend: ["Next.js 14", "React.js", "React Native", "Tailwind CSS"],
+  focus: [
+    "Backend Engineering",
+    "Full Stack Development",
+    "Open Source",
+    "GenAI"
+  ],
 
-  languages: ["JavaScript", "TypeScript", "Python", "SQL"],
+  backend: [
+    "Node.js",
+    "Express.js",
+    "FastAPI",
+    "REST APIs"
+  ],
 
-  databases: ["MongoDB", "PostgreSQL", "Prisma"],
+  frontend: [
+    "Next.js 14",
+    "React.js",
+    "React Native",
+    "TypeScript"
+  ],
 
-  currentlyLearning: ["Agentic AI", "RAG", "Cloud", "System Design"],
+  databases: [
+    "MongoDB",
+    "PostgreSQL",
+    "Prisma ORM"
+  ],
 
-  status: "Open to Backend / Full Stack / GenAI opportunities"
+  ai: [
+    "RAG",
+    "Groq API",
+    "OpenAI API",
+    "Semantic Search"
+  ],
+
+  currentlyLearning: [
+    "Agentic AI",
+    "System Design",
+    "Cloud",
+    "Open Source"
+  ],
+
+  portfolio: "https://anbarasu-fullstack.vercel.app/"
 };
