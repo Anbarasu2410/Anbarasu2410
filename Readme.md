@@ -99,25 +99,14 @@ published:   VS Code Extension on Marketplace ✅
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anbarasu2410&theme=radical&hide_border=true&background=0D1117&stroke=00C6FF&ring=6A11CB&fire=FF6C37&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anbarasu2410&theme=radical&hide_border=true&background=0D1117&stroke=00C6FF&ring=6A11CB&fire=FF6C37&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anbarasu2410&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=6A11CB&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbarasu2410&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00C6FF&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Followers&query=%24.followers&style=for-the-badge&color=6A11CB&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Following&query=%24.following&style=for-the-badge&color=2575FC&labelColor=0D1117&logo=github" />
 
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=react-dark&bg_color=0D1117&color=00C6FF&line=6A11CB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -277,33 +266,10 @@ Real-time meeting transcription and interactive meeting assistant.
 
 ---
 
-## 🔥 GitHub Activity & Streaks
+## 🔥 GitHub Activity
 
 <div align="center">
 
-### 📊 Current Streak
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00C6FF&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Followers&query=%24.followers&style=for-the-badge&color=6A11CB&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anbarasu2410&label=Following&query=%24.following&style=for-the-badge&color=2575FC&labelColor=0D1117&logo=github" />
-
-<br/><br/>
-
-### 🏅 Contribution Streak
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anbarasu2410&theme=radical&hide_border=true&background=0D1117&stroke=00C6FF&ring=6A11CB&fire=FF6C37&currStreakLabel=00C6FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-
-<br/>
-
-### 📈 Weekly Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anbarasu2410&theme=react-dark&bg_color=0D1117&color=00C6FF&line=6A11CB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-<br/>
-
-### 🏆 GitHub Trophies
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Anbarasu2410&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-<br/>
-
-### 🔗 Quick Links
 <a href="https://github.com/Anbarasu2410?tab=repositories">
   <img src="https://img.shields.io/badge/📦%20Repositories-00C6FF?style=for-the-badge&labelColor=0D1117" />
 </a>
